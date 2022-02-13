@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8ee1f283.css",
+    "main.js": "/static/js/main.769033b2.js",
+    "static/media/slide-3.png": "/static/media/slide-3.a4b3ae3dc0a9c3b85c2a.png",
+    "static/media/slide-1.png": "/static/media/slide-1.180f98870b02ce99c5e2.png",
+    "static/media/slide-2.png": "/static/media/slide-2.9be3dbba3a1600c331c9.png",
+    "static/media/slide-4.jpg": "/static/media/slide-4.a785b53e462c6947fdec.jpg",
+    "static/media/mobile-slide-3.png": "/static/media/mobile-slide-3.23d5da17f1058e150792.png",
+    "static/media/mobile-slide-1.png": "/static/media/mobile-slide-1.25dbd8e67b082b999397.png",
+    "static/media/mobile-slide-2.png": "/static/media/mobile-slide-2.c0aca73a397aee7e7646.png",
+    "static/media/instagram-logo.png": "/static/media/instagram-logo.9c5335ca39f34914350c.png",
+    "static/media/mobile-slide-4.jpg": "/static/media/mobile-slide-4.229e42e260beb700a2fb.jpg",
+    "static/media/signin-icon.jpg": "/static/media/signin-icon.5e446e9db2cbb5933217.jpg",
+    "static/media/telegram-logo.png": "/static/media/telegram-logo.e5ce1a47a325700a66cf.png",
+    "static/media/basket-icon.png": "/static/media/basket-icon.e15264d794ee910b7163.png",
+    "static/media/heart-icon.png": "/static/media/heart-icon.a2cb52a12fca24b4aa21.png",
+    "static/media/logo.svg": "/static/media/logo.a2ae20bab063698fb87a4c99b5286129.svg",
+    "index.html": "/index.html",
+    "main.8ee1f283.css.map": "/static/css/main.8ee1f283.css.map",
+    "main.769033b2.js.map": "/static/js/main.769033b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ee1f283.css",
+    "static/js/main.769033b2.js"
+  ]
+}
